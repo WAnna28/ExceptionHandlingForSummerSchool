@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandlingForSummerSchoolLib", "ExceptionHandlingForSummerSchoolLib\ExceptionHandlingForSummerSchoolLib.csproj", "{59969008-532A-4D31-8806-D86E2C6978F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandlingForSummerSchoolRun", "ExceptionHandlingForSummerSchoolRun\ExceptionHandlingForSummerSchoolRun.csproj", "{13C27388-AC7F-4D0B-8086-6EDCC68A9719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59969008-532A-4D31-8806-D86E2C6978F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59969008-532A-4D31-8806-D86E2C6978F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59969008-532A-4D31-8806-D86E2C6978F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59969008-532A-4D31-8806-D86E2C6978F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C27388-AC7F-4D0B-8086-6EDCC68A9719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C27388-AC7F-4D0B-8086-6EDCC68A9719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C27388-AC7F-4D0B-8086-6EDCC68A9719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C27388-AC7F-4D0B-8086-6EDCC68A9719}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17283EAF-B327-46AA-B625-52160FA31F5B}
+	EndGlobalSection
+EndGlobal
